@@ -3,14 +3,19 @@
 <h1>How Looks?</h1>
 
 ![Ekran görüntüsü 2025-02-14 151950](https://github.com/user-attachments/assets/909cec2b-602c-4d44-ae8a-a8840a774aaa)
+<hr/>
 
 ![Ekran görüntüsü 2025-02-14 151956](https://github.com/user-attachments/assets/e9adfe89-a0cc-41b6-87dc-8691ed963e1b)
+<hr/>
 
 ![Ekran görüntüsü 2025-02-14 152004](https://github.com/user-attachments/assets/7dab4be1-122d-4b7d-8173-91ea7ddf20e8)
+<hr/>
 
 ![Ekran görüntüsü 2025-02-14 152141](https://github.com/user-attachments/assets/6377d2cc-3b0b-4a87-9b65-e4e9d8ff8ed5)
+<hr/>
 
 ![Ekran görüntüsü 2025-02-14 152158](https://github.com/user-attachments/assets/379db7cb-a9cc-4192-bf94-37518029abf4)
+<hr/>
 
 -The final program looks like this.
 <hr/>
