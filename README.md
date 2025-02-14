@@ -15,7 +15,6 @@
 <hr/>
 
 ![Ekran görüntüsü 2025-02-14 152158](https://github.com/user-attachments/assets/379db7cb-a9cc-4192-bf94-37518029abf4)
-<hr/>
 
 -The final program looks like this.
 <hr/>
